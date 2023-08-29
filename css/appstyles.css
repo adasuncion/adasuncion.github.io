@@ -1,0 +1,21 @@
+.container1 {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0;
+    width: 80%;
+    margin: auto;
+}
+
+header {
+    background-color: darkslategray;
+    color: white;
+    border-bottom: darkgoldenrod 10px solid;
+}
+
+nav a {
+    font-size: 16px;
+    display: inline-block;
+}
+
